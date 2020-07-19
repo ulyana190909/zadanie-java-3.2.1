@@ -1,4 +1,4 @@
-public class Bonusavia {
+public class BonusAvia {
     public static void main(String[] args) {
         float airfare = 10600f;
         float mili = 0.2f;
